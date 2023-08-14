@@ -1838,7 +1838,7 @@ textarea:-moz-placeholder {
     width: calc(1296px - 190px);
   }
   .left-side{
-    padding-top: 40px;
+    padding-top: 30px;
   }
 }
 @media (max-width: 1230px) {
@@ -2101,17 +2101,15 @@ textarea:-moz-placeholder {
 
 @media (max-height: 620px) {
   .hero-image img{
-    width: 200px;
+    width: 170px;
   }
   .hero-content h2{
     font-size: 24px;
   }
   .hero-footer .download-cv{
-    margin-bottom: 1rem !important;
+    margin-bottom: 2rem !important;
   }
-  .hero-footer .social{
-    margin-bottom: 0.5rem !important;
-  }
+
 }
 @media (max-height: 600px) {
   .left-side{
